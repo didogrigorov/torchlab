@@ -68,7 +68,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/p/torchlab
+      url: https://pypi.org/p/torchlab-pytorch
 
     permissions:
       id-token: write
